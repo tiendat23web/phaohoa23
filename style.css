@@ -377,8 +377,8 @@ body {
 }
 .centered-text {
   position: absolute;
-  top: 30%;
-  left: 80%;
+  top: 80%;
+  left: 50%;
   transform: translate(-50%, -50%);
   font-size: 3em; /* Điều chỉnh kích thước chữ theo ý muốn */
   text-align: center;

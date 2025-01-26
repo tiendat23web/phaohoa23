@@ -377,11 +377,11 @@ body {
 }
 .centered-text {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 30%;
+  left: 80%;
   transform: translate(-50%, -50%);
   font-size: 3em; /* Điều chỉnh kích thước chữ theo ý muốn */
   text-align: center;
-  color: #fff; /* Màu chữ */
+  color: #12e0e3; /* Màu chữ */
   font-family: 'Russo One', sans-serif; /* Phông chữ */
 }
